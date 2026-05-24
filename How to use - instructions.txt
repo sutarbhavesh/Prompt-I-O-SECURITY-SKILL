@@ -1,0 +1,15 @@
+How to use this skill
+Option 1 — Paste at start of chat:
+Copy this entire file and paste it as your first message, then say:
+"Follow this skill for our entire conversation"
+
+Option 2 — Reference per request:
+Paste just the Quick Reference Card above any prompt you're unsure about.
+
+Option 3 — In Claude Code:
+Save this file as .claude/skills/security-guardrail/SKILL.md in your project.
+Claude Code will auto-load it.
+
+Option 4 — In LM Studio / local LLM:
+Paste as the System Prompt in LM Studio's server settings.
+Every request will be scanned automatically.
